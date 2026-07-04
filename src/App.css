@@ -905,6 +905,7 @@ body,
 
   .nextProjectV2 a {
     font-size: 1.5rem;
+    white-space: nowrap;
   }
 
   .nextProjectV2 p {
