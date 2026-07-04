@@ -906,4 +906,13 @@ body,
   .nextProjectV2 a {
     font-size: 1.5rem;
   }
+
+  .nextProjectV2 p {
+    color: #8f8f8f;
+    text-transform: uppercase;
+    letter-spacing: .18em;
+    margin-top: -10px;
+    font-size: 12px;
+    font-weight: 900;
+}
 }
