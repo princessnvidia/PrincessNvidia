@@ -348,6 +348,7 @@ h1 span {
 .projectBody p {
   color: #b8b8b8;
   line-height: 1.7;
+  letter-spacing: -.02em;
 }
 
 .tags {
@@ -915,5 +916,6 @@ body,
     margin-top: 4px;
     font-size: 9px;
     font-weight: 900;
+    white-space: nowrap;
 }
 }
