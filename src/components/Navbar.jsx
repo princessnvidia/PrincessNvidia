@@ -1,7 +1,9 @@
+import logo from "../assets/powered3.svg";
+
 export default function Navbar() {
   return (
     <nav className="nav">
-      <div className="logo">VIOLETTE.H</div>
+        <img className="logoImage" src={logo} alt="PrincessNvidia" />
 
       <div className="navLinks">
         <a href="#projects">Projects</a>

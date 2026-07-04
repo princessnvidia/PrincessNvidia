@@ -2,11 +2,11 @@
   <rect width="64" height="64" rx="16" fill="#080808"/>
   <text
     x="50%"
-    y="56%"
+    y="57%"
     text-anchor="middle"
-    font-size="34"
+    font-size="30"
     font-family="Arial"
-    font-weight="700"
+    font-weight="900"
     fill="white"
-  >V</text>
+  >PN</text>
 </svg>

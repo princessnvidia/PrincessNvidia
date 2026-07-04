@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 export default function ProjectMedia({ project }) {
   return (
     <motion.section
-      className="projectMediaV2"
+      className="projectHeroMedia"
       initial={{ opacity: 0, y: 36 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.75, delay: 0.1 }}
@@ -11,7 +11,6 @@ export default function ProjectMedia({ project }) {
       <img
         src={project.image}
         alt={project.title}
-        style={{ objectPosition: project.objectPosition || "center center" }}
       />
     </motion.section>
   );

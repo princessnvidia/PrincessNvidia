@@ -1,4 +1,4 @@
-# Violette Hoarau — Portfolio
+# PrincessNvidia — Portfolio
 
 Creative developer portfolio focused on experimental software, AI, audio, Linux tools, dream interfaces and unusual applications.
 

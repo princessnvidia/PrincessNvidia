@@ -109,7 +109,7 @@ a {
   position: sticky;
   top: 0;
   z-index: 10;
-  height: 72px;
+  height: 120px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -119,10 +119,9 @@ a {
   border-bottom: 1px solid rgba(255, 255, 255, 0.08);
 }
 
-.logo {
-  font-family: "Space Grotesk", sans-serif;
-  font-weight: 700;
-  letter-spacing: 0.08em;
+.logoImage {
+  height: 60px;
+  opacity: 50%;
 }
 
 .navLinks {
@@ -305,7 +304,7 @@ h1 span {
 
 .projectMedia {
   position: relative;
-  height: 270px;
+  height: 390px;
   display: grid;
   place-items: center;
   overflow: hidden;
@@ -334,7 +333,7 @@ h1 span {
 
 .projectType {
   color: #b27cff;
-  font-size: 13px;
+  font-size: 20px;
   font-weight: 800;
   text-transform: uppercase;
   letter-spacing: 0.14em;
@@ -364,8 +363,8 @@ h1 span {
   border-radius: 999px;
   background: rgba(255, 255, 255, 0.06);
   border: 1px solid rgba(255, 255, 255, 0.09);
-  color: #ddd;
-  font-size: 13px;
+  color: #8F8F8F;
+  font-size: 17px;
 }
 
 .textButton {
@@ -655,10 +654,16 @@ body,
 
 .projectHeroV2 {
   padding: 110px 7vw 48px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .projectHeroInner {
   max-width: 1100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .projectHeroV2 h1 {
@@ -666,7 +671,7 @@ body,
   margin: 18px 0 0;
   font-size: clamp(56px, 10vw, 132px);
   line-height: 0.86;
-  letter-spacing: -0.075em;
+  letter-spacing: -0.02em;
   overflow-wrap: break-word;
 }
 
@@ -695,28 +700,42 @@ body,
   border: 1px solid rgba(255,255,255,0.08);
 }
 
-.projectMediaV2 {
-  width: min(86vw, 1180px);
-  max-height: 500px;
-  margin: 10px auto 80px;
-  overflow: hidden;
+.projectHeroMedia {
+  width: min(90vw, 1280px);
+
+  margin: 30px auto 80px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
   border-radius: 36px;
-  border: 1px solid rgba(255,255,255,0.12);
-  background: rgba(255,255,255,0.04);
-  box-shadow: 0 50px 130px rgba(0,0,0,0.45);
+
+  background: rgba(255,255,255,.04);
+
+  border: 1px solid rgba(255,255,255,.08);
+
+  box-shadow: 0 40px 100px rgba(0,0,0,.35);
 }
 
-.projectMediaV2 img {
-  width: 100%;
-  height: 100%;
-  max-height: 500px;
-  object-fit: cover;
+.projectHeroMedia img {
   display: block;
+
+  width: auto;
+  height: auto;
+
+  max-width: 100%;
+  max-height: 1000px;
+
+  object-fit: contain;
 }
 
 .projectStoryV2 {
   width: min(86vw, 1180px);
   margin: 0 auto 90px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .projectBigText {
@@ -744,13 +763,14 @@ body,
   border-radius: 32px;
   background: linear-gradient(145deg, rgba(255,255,255,0.075), rgba(255,255,255,0.025));
   border: 1px solid rgba(255,255,255,0.09);
+  width: 100%;
 }
 
 .caseGrid span,
 .sectionLabel {
   color: #b27cff;
   font-weight: 900;
-  font-size: 12px;
+  font-size: 16px;
   letter-spacing: 0.18em;
   text-transform: uppercase;
 }
@@ -807,6 +827,7 @@ body,
   margin: 0 auto 90px;
   padding-top: 40px;
   border-top: 1px solid rgba(255,255,255,0.1);
+  
 }
 
 .nextProjectV2 p {
@@ -815,6 +836,7 @@ body,
   font-size: 12px;
   letter-spacing: 0.18em;
   font-weight: 900;
+  margin-top: -10px;
 }
 
 .nextProjectV2 a {
@@ -824,7 +846,7 @@ body,
   font-size: clamp(42px, 7vw, 88px);
   font-family: "Neue Haas Display", sans-serif;
   font-weight: 700;
-  letter-spacing: -0.06em;
+  letter-spacing: -0.02em;
 }
 
 @media (max-width: 850px) {
@@ -846,3 +868,11 @@ body,
     gap: 20px;
   }
 }
+
+.alignementV2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 12px;
+}
+

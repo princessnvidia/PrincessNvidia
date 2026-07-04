@@ -18,7 +18,7 @@ export const projects = [
       "Android dream journal and lucid dreaming companion built around sleep tracking, dream notes and future ESP32-S3 hardware.",
     tags: ["React", "Capacitor", "Android", "ESP32-S3"],
     image: honeyronautsGif,
-    objectPosition: "center 100px",
+    objectPosition: "center -70px",
     architecture: ["React", "Capacitor", "Android", "Local Data", "ESP32-S3", "Lucid Mask"],
     roadmap: [
       { label: "Dream journal", done: true },
@@ -124,7 +124,7 @@ export const projects = [
       "Mandarin learning application using active recall, character practice, vocabulary progression and local statistics.",
     tags: ["React", "Vite", "Chinese", "UX"],
     image: hanziGif,
-    objectPosition: "center 100px",
+    objectPosition: "center -190px",
     architecture: ["Vocabulary JSON", "React", "Quiz Engine", "Local Stats", "Android Export"],
     roadmap: [
       { label: "Read mode", done: true },
