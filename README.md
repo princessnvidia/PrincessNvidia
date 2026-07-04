@@ -1,29 +1,53 @@
-# PrincessNvidia — Portfolio
+# PrincessNvidia
 
-Creative developer portfolio focused on experimental software, AI, audio, Linux tools, dream interfaces and unusual applications.
+Creative developer building experimental software.
 
-## Projects
+---
 
-- Honeyronauts — dream journaling and lucid dreaming interface
-- Toribash AI — AI locomotion research with replay datasets and GRU models
-- BreakbeatAI — breakbeat slicing and drum variation tool
-- Hanzi App — Mandarin learning app
-- PrincessFinder — custom Linux file explorer
-- PrincessGlass — interface experiment
-- Princess iTunes — music library UI experiment
+## Featured projects
+
+🟣 Honeyronauts
+
+Dream journal and lucid dreaming interface.
+
+🟣 Toribash AI
+
+Neural locomotion research.
+
+🟣 BreakbeatAI
+
+Intelligent breakbeat generation.
+
+🟣 Hanzi App
+
+Mandarin learning application.
+
+---
 
 ## Stack
 
-- React
-- Vite
-- React Router
-- Framer Motion
-- Oxlint
-- CSS
-- Neue Haas Display
+React
 
-## Development
+Vite
 
-```bash
-npm install
-npm run dev
+Framer Motion
+
+Python
+
+PyTorch
+
+Lua
+
+Linux
+
+ESP32
+
+---
+
+## Contact
+
+Portfolio
+
+GitHub
+
+Email
