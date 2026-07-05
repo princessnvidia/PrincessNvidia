@@ -50,4 +50,4 @@ ESP32
 
 - 🌍 **Portfolio** — https://princessnvidia.vercel.app
 - 💻 **Projects** — https://github.com/princessnvidia
-- 📧 **Email** — mailto:contact@tonadresse.com
+- 📧 **Email** — mailto:violette.hoarau54@gmail.com
