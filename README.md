@@ -1,7 +1,6 @@
 # PrincessNvidia
 
-Creative developer building experimental software.
-
+Creative Developer · AI · Linux · Audio · Dream Interfaces
 ---
 
 ## Featured projects
