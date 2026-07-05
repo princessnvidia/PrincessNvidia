@@ -12,15 +12,15 @@ https://princessnvidia.vercel.app/
 
 Dream journal and lucid dreaming interface.
 
-🟣 Toribash AI
+### Toribash AI
 
 Neural locomotion research.
 
-🟣 BreakbeatAI
+### BreakbeatAI
 
 Intelligent breakbeat generation.
 
-🟣 Hanzi App
+### Hanzi App
 
 Mandarin learning application.
 
