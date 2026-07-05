@@ -48,6 +48,8 @@ ESP32
 
 ## Contact
 
-- 🌍 **Portfolio** — https://princessnvidia.vercel.app
-- 💻 **Projects** — https://github.com/princessnvidia
-- 📧 **Email** — mailto:violette.hoarau54@gmail.com
+- [🌍 Portfolio](https://princessnvidia.vercel.app)
+- [💻 GitHub Projects](https://github.com/princessnvidia?tab=repositories)
+- [💼 LinkedIn](https://linkedin.com/in/...)
+- [🎯 Malt](https://www.malt.fr/profile/...)
+- [📧 Contact](mailto:violette.hoarau54@gmail.com)
