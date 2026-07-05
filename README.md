@@ -48,8 +48,6 @@ ESP32
 
 ## Contact
 
-Portfolio
-
-GitHub
-
-Email
+- 🌍 **Portfolio** — https://princessnvidia.vercel.app
+- 💻 **Projects** — https://github.com/princessnvidia
+- 📧 **Email** — mailto:contact@tonadresse.com
