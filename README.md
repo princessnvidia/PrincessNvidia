@@ -50,6 +50,6 @@ ESP32
 
 - [🌍 Portfolio](https://princessnvidia.vercel.app)
 - [💻 GitHub Projects](https://github.com/princessnvidia?tab=repositories)
-- [💼 LinkedIn](https://linkedin.com/in/...)
-- [🎯 Malt](https://www.malt.fr/profile/...)
+- [💼 LinkedIn](https://www.linkedin.com/in/violette-hoarau-389304367/)
+- [🎯 Malt](https://www.malt.fr/profile/violettehoarau?origin=dashboard_profile_name)
 - [📧 Contact](mailto:violette.hoarau54@gmail.com)
